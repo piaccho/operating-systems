@@ -1,0 +1,9 @@
+Implementacja przy użyciu funkcji biblioteki C
+	Czas rzeczywisty: 594553.000000 s
+	Czas użytkownika: 2.130000 s
+	Czas systemowy: 0.000000 s
+
+Implementacja przy użyciu funkcji systemowych
+	Czas rzeczywisty: 183011.000000 s
+	Czas użytkownika: 0.350000 s
+	Czas systemowy: 0.000000 s

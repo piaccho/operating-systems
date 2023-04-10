@@ -1,0 +1,5 @@
+RAPORT:
+Sygnał pending w procesie macierzystym po zforkowaniu jest niewidoczny w procesie potomnym.
+Proces potomny dziedziczy ignorowanie, handlery i maskowanie.
+Po wywołaniu funkcji exec odziedziczone zostało ignorowanie i maskowanie.
+Sygnał pending w procesie macierzysytym jest również widoczny w wywołaniu funkcji exec.
