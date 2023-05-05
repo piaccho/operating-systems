@@ -1,0 +1,16 @@
+
+Value: 3.141593
+Rectangle width: 0.000000001
+Processes number: 10
+Time: 4.847405s
+
+Value: 3.141593
+Rectangle width: 0.000000001
+Processes number: 100
+Time: 4.221433s
+
+Value: 3.141592
+Rectangle width: 0.000000001
+Processes number: 1000
+Time: 3.612040s
+
